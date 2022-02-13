@@ -43,3 +43,15 @@ console.log(numbers);
 const bigOrSmallArray = [1, 99, 42, 69, 102, -10, 159, 352];
 
 // CODE HERE
+
+let answer = [];
+
+for (let i = 0; i < bigOrSmallArray.length; i++) {
+  if (bigOrSmallArray[i] > 100) {
+    answer.push("Big");
+  } else {
+    answer.push("Small");
+  }
+}
+
+console.log(answer);
