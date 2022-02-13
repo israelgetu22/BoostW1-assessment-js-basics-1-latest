@@ -92,3 +92,7 @@ console.log(gitCommitCode);
 */
 
 //CODE HERE
+
+let gitPushDefinition =
+  "used to upload local repository content to a remote repository";
+console.log(gitPushDefinition);
