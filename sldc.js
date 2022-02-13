@@ -26,3 +26,9 @@
 */
 const Planning =
   "This is the first step, in which the end goal of the software is determined and defined. Developers typically will see what systems are already in place, and determine what features will need to be added.";
+  const planning ="This is the first step, in which the end goal of the software is determined and defined. Developers typically will see what systems are already in place, and determine what features will need to be added.";
+  const Analysis ,Requirements = "requirements gathering or requirements capturing.";
+  const Design = " keeping particular pieces of code independent of other components.";
+  const Implementation = " Implementation is a library that attempts to bring interfaces to JavaScript in the form of runtime type-checking.";
+  const Testing, Integration  = "Testing and integration tests is to find bugs in the connections and dependencies between various components.";
+  const Maintain = "Maintain uses to fix the issue we want a tool to handle some key tasks for us automatically.";
