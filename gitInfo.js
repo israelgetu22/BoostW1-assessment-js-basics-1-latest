@@ -40,7 +40,9 @@ console.log(gitInitDefinition);
 */
 
 //CODE HERE
-
+let gitCloneDefinition =
+  " git clone is copy a repo from Github and put it on my machine";
+console.log(gitCloneDefinition);
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
