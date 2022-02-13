@@ -62,6 +62,12 @@ console.log(gitStatusDefinition);
 */
 
 //CODE HERE
+let gitAddDefinition = " git add is add some files to be tracked )";
+console.log(gitAddDefinition);
+
+let gitAddCode = [];
+gitAddCode.push("AnyString");
+console.log(gitAddCode);
 
 //////////////////PROBLEM 7////////////////////
 /*
