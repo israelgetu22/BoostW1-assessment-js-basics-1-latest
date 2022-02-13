@@ -50,7 +50,8 @@ console.log(gitCloneDefinition);
 */
 
 //CODE HERE
-
+let gitStatusDefinition = " git status is tell me about this repo";
+console.log(gitStatusDefinition);
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
