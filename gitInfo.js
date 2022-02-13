@@ -10,6 +10,8 @@
 */
 
 //CODE HERE
+let gitDefinition = "Git is a version control system";
+console.log(gitDefinition);
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,7 +20,9 @@
 */
 
 //CODE HERE
-
+let gitHubDefinition =
+  "GitHub is a Website and essentially a cloud service for your git repositories. ";
+console.log(gitHubDefinition);
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -64,7 +68,6 @@
 */
 
 //CODE HERE
-
 
 //////////////////PROBLEM 8////////////////////
 /*
