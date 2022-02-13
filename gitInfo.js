@@ -30,7 +30,9 @@ console.log(gitHubDefinition);
 */
 
 //CODE HERE
-
+let gitInitDefinition =
+  " git init is initialize a local repository right here in this folder";
+console.log(gitInitDefinition);
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
